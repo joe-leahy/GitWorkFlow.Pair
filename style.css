@@ -35,3 +35,9 @@ body {
   .tiles .box-wrapper > a {
     color: yellow;
   }
+
+  div > span {
+
+    background-image: url("IMG_5077.png");
+    background-size: contain;
+  }
